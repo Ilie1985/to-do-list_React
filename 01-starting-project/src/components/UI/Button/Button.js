@@ -1,13 +1,6 @@
+//use styled-components
 import styled from "styled-components";
-// import './Button.css';
 
-// const Button = props => {
-//   return (
-//     <button type={props.type} className="button" onClick={props.onClick}>
-//       {props.children}
-//     </button>
-//   );
-// };
 const Button = styled.button`
   font: inherit;
   padding: 0.5rem 1.5rem;
